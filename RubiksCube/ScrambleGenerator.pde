@@ -4,7 +4,8 @@ import java.util.Random;
  * Creates a random algorithm to scramble the Rubik's Cube (3x3) with a number of moves
  * (25 recommended for a good scramble) defined by the user.
  *
- * Created by mrxuso on 13/07/16.
+ * Original Created by mrxuso on 13/07/16.
+ * Modified by kmatelski3 on 1/3/2024
  */
 
 public class ScrambleGenerator {
