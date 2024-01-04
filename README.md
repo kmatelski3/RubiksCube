@@ -10,4 +10,4 @@ You can rotate the cube during inspection without starting the timer.
 Key Map:
 
 
-![Alt text](image.png)
+![Alt text](image-1.png)
