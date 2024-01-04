@@ -8,4 +8,6 @@ Press 'Space' to scramble the cube. The timer starts when you make your first tu
 You can rotate the cube during inspection without starting the timer.
 
 Key Map:
+
+
 ![Alt text](image.png)
